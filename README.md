@@ -68,3 +68,6 @@ At least the source code survived (see below). I used an old version of Microsof
 * Files could be OPEN for sequential read ("I" mode), sequential write ("O" mode) or random access ("R" mode).
 
 It compiled into a single ABC.COM file (that was the executable extension then). It also used the ABC.OVR file, which contained the error message and up to 128 compilation log entries. Comments are in Portuguese, but I bet you can understand most of it. The code is a little messy, but not too bad for BASIC in the 1980's.
+
+Original blog post at
+https://blogs.technet.microsoft.com/josebda/2016/03/17/the-abc-language-thirty-years-later/
