@@ -12,7 +12,7 @@ I remember having a lot of fun with this project. The language was very simple a
 
 * Inicio (start, no action)
 * Fim (end, no action)
-* (comment, no action)
+* \* (comment, no action)
 * Mova (move, move register to another register)
 * Troque (swap, swap contents of two registers)
 * Salve (save, put data into a register)
