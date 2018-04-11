@@ -1,6 +1,5 @@
-# ABC2
+# ABC
 Compiler for the ABC language
-
 
 Back in March 1986, I was in my second year of college (Data Processing at the Universidade Federal do Ceara in Brazil). I was also teaching programming night classes at a Brazilian technical school. On that year, I created a language called ABC, complete with a little compiler. It compiled the ABC code into pseudo code and ran it right away.
 
